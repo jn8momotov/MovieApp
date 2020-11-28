@@ -9,4 +9,7 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="background">#191926</color>
+    <color name="gray">#6D6D80</color>
+    <color name="clear">#00000000</color>
+    <color name="pink">#FF3466</color>
 </resources>
